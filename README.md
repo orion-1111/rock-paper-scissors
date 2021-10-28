@@ -1,2 +1,2 @@
 
-Live link: [Play game here](file:///home/rizza/the_odin_project/rock-paper-scissors/game.html)
+Live link: [Game](https://github.com/orion-1111/rock-paper-scissors/blob/main/game.html)
